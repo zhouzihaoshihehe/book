@@ -1,0 +1,150 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    line-height: 1.618em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    font-size: 1.25em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0.83em 0
+    }
+.calibre2 {
+    display: list-item;
+    list-style-type: none;
+    margin-left: -10px;
+    padding-left: -1em
+    }
+.calibre3 {
+    color: #000;
+    display: block;
+    font-size: 1.25em;
+    font-weight: bold;
+    line-height: 1.618em;
+    margin-top: 1.5em;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre4 {
+    color: #000
+    }
+.calibre5 {
+    color: #000;
+    display: block;
+    font-size: 1.25em;
+    font-weight: bold;
+    line-height: 1.618em;
+    margin-top: 1.5em;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre6 {
+    display: list-item;
+    font-size: 0.875em;
+    line-height: 1.6em;
+    list-style-type: none;
+    margin-left: -10px;
+    padding-left: -1em
+    }
+.calibre7 {
+    display: block;
+    font-size: 1em;
+    line-height: 1.618em;
+    text-align: justify;
+    margin: 0 5pt;
+    padding: 0% 0
+    }
+.calibre8 {
+    display: block;
+    line-height: 130%;
+    text-align: justify;
+    margin: 0;
+    padding: 0
+    }
+.calibre9 {
+    display: block;
+    line-height: 130%;
+    text-align: center;
+    margin: 0;
+    padding: 0
+    }
+.calibre10 {
+    display: block;
+    font-size: 1.25em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0.67em 0
+    }
+.calibre11 {
+    display: block;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0.83em 0
+    }
+.calibre12 {
+    font-weight: bold
+    }
+.calibre13 {
+    display: block;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 1em 0
+    }
+.calibre14 {
+    display: block;
+    line-height: 1.618em;
+    text-align: justify;
+    text-indent: 2em;
+    margin: 1em 0
+    }
+.calibre15 {
+    display: block;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 1em 0
+    }
+.calibre16 {
+    display: block;
+    text-align: center
+    }
+.calibre17 {
+    height: auto;
+    width: auto
+    }
+.calibre18 {
+    display: block
+    }
+.cover {
+    height: auto;
+    width: 100%;
+    padding: 0
+    }
+.level {
+    display: block;
+    list-style-type: disc;
+    margin: 1em 0
+    }
+.level1 {
+    display: block;
+    list-style-type: circle;
+    margin: 0
+    }
+.level2 {
+    display: block;
+    list-style-type: square;
+    margin: 0
+    }
+.pcalibre:hover {
+    color: blue
+    }
+                
